@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c82"
+  },
+  "tournament_id": "TR001",
+  "name": "Summer Slam",
+  "organizer_id": "U010",
+  "start_date": "2025-08-01",
+  "teams": [
+    "T001",
+    "T002",
+    "T003"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c83"
+  },
+  "tournament_id": "TR002",
+  "name": "Power League",
+  "organizer_id": "U006",
+  "start_date": "2025-08-10",
+  "teams": [
+    "T004",
+    "T005",
+    "T006"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c84"
+  },
+  "tournament_id": "TR003",
+  "name": "Master Cup",
+  "organizer_id": "U010",
+  "start_date": "2025-08-15",
+  "teams": [
+    "T007",
+    "T008",
+    "T009"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c85"
+  },
+  "tournament_id": "TR004",
+  "name": "Legends Trophy",
+  "organizer_id": "U006",
+  "start_date": "2025-08-20",
+  "teams": [
+    "T010",
+    "T001",
+    "T002"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c86"
+  },
+  "tournament_id": "TR005",
+  "name": "Turbo T10",
+  "organizer_id": "U010",
+  "start_date": "2025-08-25",
+  "teams": [
+    "T003",
+    "T004",
+    "T005"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c87"
+  },
+  "tournament_id": "TR006",
+  "name": "Cricket Carnival",
+  "organizer_id": "U006",
+  "start_date": "2025-08-30",
+  "teams": [
+    "T006",
+    "T007",
+    "T008"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c88"
+  },
+  "tournament_id": "TR007",
+  "name": "Boundary Cup",
+  "organizer_id": "U010",
+  "start_date": "2025-09-01",
+  "teams": [
+    "T009",
+    "T010",
+    "T001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c89"
+  },
+  "tournament_id": "TR008",
+  "name": "Strike League",
+  "organizer_id": "U006",
+  "start_date": "2025-09-05",
+  "teams": [
+    "T002",
+    "T003",
+    "T004"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c8a"
+  },
+  "tournament_id": "TR009",
+  "name": "Hit Out",
+  "organizer_id": "U010",
+  "start_date": "2025-09-10",
+  "teams": [
+    "T005",
+    "T006",
+    "T007"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6881b29fc22290a8b3689c8b"
+  },
+  "tournament_id": "TR010",
+  "name": "All Star T20",
+  "organizer_id": "U006",
+  "start_date": "2025-09-15",
+  "teams": [
+    "T008",
+    "T009",
+    "T010"
+  ]
+}]

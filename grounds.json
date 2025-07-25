@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c6b"
+  },
+  "ground_id": "G001",
+  "name": "Turf Arena",
+  "location": "Mumbai",
+  "capacity": 100
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c6c"
+  },
+  "ground_id": "G002",
+  "name": "Green Field",
+  "location": "Delhi",
+  "capacity": 150
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c6d"
+  },
+  "ground_id": "G003",
+  "name": "Blue Turf",
+  "location": "Bangalore",
+  "capacity": 80
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c6e"
+  },
+  "ground_id": "G004",
+  "name": "Champion's Pitch",
+  "location": "Chennai",
+  "capacity": 120
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c6f"
+  },
+  "ground_id": "G005",
+  "name": "Victory Ground",
+  "location": "Hyderabad",
+  "capacity": 110
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c70"
+  },
+  "ground_id": "G006",
+  "name": "The Oval Turf",
+  "location": "Kolkata",
+  "capacity": 130
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c71"
+  },
+  "ground_id": "G007",
+  "name": "Cricket Dome",
+  "location": "Pune",
+  "capacity": 90
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c72"
+  },
+  "ground_id": "G008",
+  "name": "Legend's Arena",
+  "location": "Jaipur",
+  "capacity": 140
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c73"
+  },
+  "ground_id": "G009",
+  "name": "Dream Stadium",
+  "location": "Ahmedabad",
+  "capacity": 160
+},
+{
+  "_id": {
+    "$oid": "6881b23ec22290a8b3689c74"
+  },
+  "ground_id": "G010",
+  "name": "Strike Park",
+  "location": "Nagpur",
+  "capacity": 95
+}]

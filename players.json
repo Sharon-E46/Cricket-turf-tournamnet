@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cb4"
+  },
+  "player_id": "P001",
+  "name": "Rohit Sharma",
+  "age": 36,
+  "batting_style": "Right-hand bat",
+  "bowling_style": "Right-arm offbreak",
+  "team_id": "T001"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cb5"
+  },
+  "player_id": "P002",
+  "name": "Virat Kohli",
+  "age": 35,
+  "batting_style": "Right-hand bat",
+  "bowling_style": "Right-arm medium",
+  "team_id": "T001"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cb6"
+  },
+  "player_id": "P003",
+  "name": "Hardik Pandya",
+  "age": 31,
+  "batting_style": "Right-hand bat",
+  "bowling_style": "Right-arm fast-medium",
+  "team_id": "T002"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cb7"
+  },
+  "player_id": "P004",
+  "name": "KL Rahul",
+  "age": 34,
+  "batting_style": "Right-hand bat",
+  "bowling_style": "None",
+  "team_id": "T002"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cb8"
+  },
+  "player_id": "P005",
+  "name": "Shreyas Iyer",
+  "age": 30,
+  "batting_style": "Right-hand bat",
+  "bowling_style": "Right-arm leg spin",
+  "team_id": "T003"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cb9"
+  },
+  "player_id": "P006",
+  "name": "Rishabh Pant",
+  "age": 27,
+  "batting_style": "Left-hand bat",
+  "bowling_style": "None",
+  "team_id": "T003"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cba"
+  },
+  "player_id": "P007",
+  "name": "Suresh Raina",
+  "age": 38,
+  "batting_style": "Left-hand bat",
+  "bowling_style": "Right-arm offbreak",
+  "team_id": "T004"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cbb"
+  },
+  "player_id": "P008",
+  "name": "Jasprit Bumrah",
+  "age": 31,
+  "batting_style": "Right-hand bat",
+  "bowling_style": "Right-arm fast",
+  "team_id": "T004"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cbc"
+  },
+  "player_id": "P009",
+  "name": "Shubman Gill",
+  "age": 26,
+  "batting_style": "Right-hand bat",
+  "bowling_style": "Right-arm offbreak",
+  "team_id": "T005"
+},
+{
+  "_id": {
+    "$oid": "6881b4a9c22290a8b3689cbd"
+  },
+  "player_id": "P010",
+  "name": "MS Dhoni",
+  "age": 43,
+  "batting_style": "Right-hand bat",
+  "bowling_style": "Right-arm medium",
+  "team_id": "T005"
+}]

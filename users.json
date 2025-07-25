@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c54"
+  },
+  "user_id": "U001",
+  "name": "Rohit",
+  "role": "player",
+  "email": "rohit@example.com",
+  "phone": "9876543210"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c55"
+  },
+  "user_id": "U002",
+  "name": "Virat",
+  "role": "player",
+  "email": "virat@example.com",
+  "phone": "9123456780"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c56"
+  },
+  "user_id": "U003",
+  "name": "Hardik",
+  "role": "player",
+  "email": "hardik@example.com",
+  "phone": "9998887776"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c57"
+  },
+  "user_id": "U004",
+  "name": "Rahul",
+  "role": "player",
+  "email": "rahul@example.com",
+  "phone": "9911223344"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c58"
+  },
+  "user_id": "U005",
+  "name": "Shreyas",
+  "role": "player",
+  "email": "shreyas@example.com",
+  "phone": "9844112233"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c59"
+  },
+  "user_id": "U006",
+  "name": "Dhoni",
+  "role": "organizer",
+  "email": "dhoni@example.com",
+  "phone": "9888776655"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c5a"
+  },
+  "user_id": "U007",
+  "name": "Raina",
+  "role": "player",
+  "email": "raina@example.com",
+  "phone": "9876543201"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c5b"
+  },
+  "user_id": "U008",
+  "name": "Bumrah",
+  "role": "player",
+  "email": "bumrah@example.com",
+  "phone": "7894561230"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c5c"
+  },
+  "user_id": "U009",
+  "name": "Gill",
+  "role": "player",
+  "email": "gill@example.com",
+  "phone": "9123456743"
+},
+{
+  "_id": {
+    "$oid": "6881b1e7c22290a8b3689c5d"
+  },
+  "user_id": "U010",
+  "name": "Pant",
+  "role": "organizer",
+  "email": "pant@example.com",
+  "phone": "9112233445"
+}]
